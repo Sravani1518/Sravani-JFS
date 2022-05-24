@@ -1,0 +1,14 @@
+1. git branch js-assignments
+2. git checkout js-assignments
+3. git add -A
+4. git commit -m "commit copy file in css branch"
+5. git commit -a -m "commiting index copy changes in js assignment"
+6. git checkout master
+7. git add -A
+8. git commit -m "commit changes in master"
+9. git checkout js-assignments
+10.git add -A
+11.git commit -m "final commit in js branch modified cssfile"
+12.git checkout master
+13.git merge js-assignments
+14.git branch -d js-assignments
