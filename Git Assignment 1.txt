@@ -12,4 +12,3 @@
 12.git checkout master
 13.git merge js-assignments
 14.git branch -d js-assignments
-1234
